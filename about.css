@@ -1,0 +1,75 @@
+#main-img{
+    padding: 30px;
+    height: 500px;
+}
+h1{
+    padding: 30px;
+}
+#first{
+    margin-top: 30px;
+}
+p{
+    font-size: 17px;
+}
+#sub-head{
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+#footer{
+    color: rgb(96, 93, 93);
+    font-size: 20px;
+    padding: 15px;
+    text-decoration: none;
+    width: 100%;
+  
+  }
+  #foot2{
+    font-size: 20px;
+    padding: 30px;
+    color: rgb(96, 93, 93);
+    width: 100%;
+  }
+  #foot3{
+    padding: 20px;
+  }
+  .nav-item h1{
+    margin-left: 300px;   
+    
+}
+*{
+    font-family: 'Gentium Book Plus', serif;
+}
+.navbar .navbar-nav .nav-item .nav-link {
+    margin-top: 10px;
+    padding: 0 0.9em;
+}
+  .navbar .navbar-nav .nav-item:not(:last-child) .nav-link {
+    border-right: 2px solid #000000;
+}
+.block{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 120px;
+    
+  }
+  #but{
+    color: black;
+    border-color: black;
+
+  }
+  #card{
+    margin-left: 100px;
+    height: 400px;
+    width: 800px;
+    margin: auto;
+    margin-top: 40px;
+    border-color: black;
+    
+  }
+  h4{
+    padding: 40px;
+  }
+  h5{
+    font-weight: 200;
+  }

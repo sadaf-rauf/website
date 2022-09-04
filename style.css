@@ -1,0 +1,101 @@
+.nav-item h1{
+    margin-left: 300px;   
+    
+}
+*{
+    font-family: 'Gentium Book Plus', serif;
+}
+.navbar .navbar-nav .nav-item .nav-link {
+    margin-top: 10px;
+    padding: 0 0.9em;
+}
+  .navbar .navbar-nav .nav-item:not(:last-child) .nav-link {
+    border-right: 2px solid #000000;
+}
+/* #image{
+    margin-top: 60px;
+} */
+.row h1, p{
+    font-family: 'Gentium Book Plus', serif;
+    
+}
+.row p{
+    /* margin-left: 60px;
+    margin-top: 250px; */
+    margin-left: 60px;
+    font-size: 25px;
+}
+.row button{
+    margin-left: 60px;
+    background-color: gray;
+    color: white;
+    border-radius: 18px;
+    width: 150px
+}
+.carousel {
+    margin-top: 60px;
+    }
+.carousel-item{
+    height: 550px;
+    width: 30px;
+    margin-right: 50px;
+    padding: 20px;
+}
+.accordion-item{
+    padding: 2px;
+    width: 100%;
+}
+#acc-button{
+    width: 95%;
+    background-color: white;
+    color: black;
+}
+#accolades{
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    
+}
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container iframe{
+    left:0;
+    top:0;
+    height:80%;
+    width:80%;
+    margin-left: 150px;
+    position:absolute;
+  }
+  #footer{
+    color: rgb(96, 93, 93);
+    font-size: 20px;
+    padding: 15px;
+    text-decoration: none;
+    width: 100%;
+  
+  }
+  #foot2{
+    font-size: 20px;
+    padding: 30px;
+    color: rgb(96, 93, 93);
+    width: 100%;
+  }
+  #foot3{
+    padding: 20px;
+  }
+  .accordion-body{
+    width: 95%;
+    margin-left: 35px;
+  }
+  .block{
+    display: inline-block;
+    justify-content: center;
+    padding: 10px;
+    margin-left: 200px;
+  }
+  
+
